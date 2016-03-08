@@ -4,7 +4,7 @@
 
     <groupId>com.github.zxl0714</groupId>
     <artifactId>leveldb-sstable</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
 
     <name>leveldb-sstable</name>
     <description>A leveldb sstable java generator.</description>
@@ -19,7 +19,7 @@
         <connection>scm:git:https://github.com/zxl0714/leveldb-sstable.git</connection>
         <url>scm:git:https://github.com/zxl0714/leveldb-sstable.git</url>
         <developerConnection>scm:git:https://github.com/zxl0714/leveldb-sstable.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>leveldb-sstable-0.1</tag>
     </scm>
 
     <developers>
